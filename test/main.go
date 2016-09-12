@@ -6,8 +6,8 @@ import (
 	"net"
 	"os"
 
-	resolve "github.com/jbenet/go-net-resolve-addr"
-	reuse "github.com/jbenet/go-reuseport"
+	resolve "github.com/skyportsystems/go-net-resolve-addr"
+	reuse "github.com/skyportsystems/go-reuseport"
 )
 
 func main() {
